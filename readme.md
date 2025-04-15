@@ -1,12 +1,20 @@
-Hello and Welcome to the teacher training Repo.
+# Hello and Welcome to the teacher training Repo.
 
-Please clone this repository.
+### Steps to Complete
+1. Please clone this repository using an IDE or commandline. 
+2. In a text editor add your name and your favourite quote to the markdown table below.
+3. Push the changes.
 
-Add your name below along with your favourite quote and thn push it for everyone else to see!
 
-
+### Name & Quote Table
 | Name    | Quote |
 | --------|-------|
 | Hugo    | "When the going gets tough, the tough get going" |
+|         |       |
+|         |       |
+|         |       |
+|         |       |
+|         |       |
+|         |       |
 |         |       |
 |         |       |
