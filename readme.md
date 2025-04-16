@@ -10,7 +10,7 @@
 | Name    | Quote |
 | --------|-------|
 | Hugo    | "When the going gets tough, the tough get going" |
-|         |       |
+| Chris   | "When the going gets rough, the rough get tough" |
 |         |       |
 |         |       |
 |         |       |
